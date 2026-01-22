@@ -11,4 +11,7 @@
 - I am M.Eng. in Automotive Engineering, with a work experience background in Automotive Powertrain Development - xEV and ICE.
 - Automotive Technology has been my interest since 12 years of age, and have been pursuing it ever since.
 ## Project Links:
-- Links to your SEA:ME repositories.
+### Instrument Cluster
+ - [SEA:ME IC_Repository](https://github.com/Aman-Pandit-MEng/DES_Instrument_Cluster)
+### ADAS Lane Detection
+ - [SEA:ME ADAS_Organization](https://github.com/ADS-Skynet)
