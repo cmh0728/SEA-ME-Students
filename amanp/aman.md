@@ -15,3 +15,4 @@
  - [SEA:ME IC_Repository](https://github.com/Aman-Pandit-MEng/DES_Instrument_Cluster)
 ### ADAS Lane Detection
  - [SEA:ME ADAS_Organization](https://github.com/ADS-Skynet)
+ - [SEA:ME - AI model for Object detection and Classification](https://github.com/Aman-Pandit-MEng/Yolo-Road-sign-detection-and-classification)
