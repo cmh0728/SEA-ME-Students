@@ -14,5 +14,11 @@
 - I will do my best in the project.
 - I like to watch and play football.
 ## Project Links:
-- [Ex02: Convert.cpp] (https://github.com/Changseok-Oh29/SEA-ME-Warmup/blob/master/convert.cpp)
-- [Ex03: old_phonebook.cpp] (https://github.com/Changseok-Oh29/SEA-ME-Warmup/blob/master/convert.cpp)
+### SEA-ME-Warmup
+- [SEA:ME warmup](https://github.com/Changseok-Oh29/SEA-ME-Warmup)
+
+### DES Project 1 - Piracer assembly
+- [picracer_assembly](https://github.com/parkj12b/piracer_py/tree/master)
+
+### DES Project 2 - Instrument Cluster
+- [Instrument Cluster](https://github.com/Changseok-Oh29/PiRacer_Instrument_Cluster_QT)
