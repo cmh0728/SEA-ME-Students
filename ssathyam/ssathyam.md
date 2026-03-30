@@ -16,7 +16,7 @@
 ## About me: 
  I am automotive engineer with Masters in Commercial Vehicle Technology from TU Kaiserslautern. I have 4 years of experience as Function Owner/ System Engineer in Automotive Infotainment field (Volkswagen Touareg Infotainment). 
 ## Project Links:
- 1. Warmup : https://github.com/saicharansathyam/Warmup.git /n
- 2. Instrument Cluster : https://github.com/saicharansathyam/Instrument-Cluster /n
- 3. Head-Unit Project : https://github.com/saicharansathyam/DES_Head-Unit /n
- 4. PDC Project : https://github.com/saicharansathyam/PDC/tree/PDC /n
+ 1. Warmup : https://github.com/saicharansathyam/Warmup.git 
+ 2. Instrument Cluster : https://github.com/saicharansathyam/Instrument-Cluster
+ 3. Head-Unit Project : https://github.com/saicharansathyam/DES_Head-Unit 
+ 4. PDC Project : https://github.com/saicharansathyam/PDC/tree/PDC 
